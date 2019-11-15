@@ -10,6 +10,7 @@ end
 def reverse_each_word(sentence2)
   split_sentence2 = sentence2.split(" ")
   kanye = []
-  split_sentence2.collect 
+  split_sentence2.collect do |thommy|
+    
   
   
