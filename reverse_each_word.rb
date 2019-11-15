@@ -7,5 +7,6 @@
 
 def reverse_each_word(sentence1)
   split_sentence1 = sentence1.split(" ")
+  reversed = []
   
   
