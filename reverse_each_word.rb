@@ -4,5 +4,4 @@ def reverse_each_word(sentence1)
   sentence1.size.times { reversed << split_sentence1.pop } 
   reversed.join.reverse
 end
-puts reverse_each_word("Hello there, and how are you?")
 
